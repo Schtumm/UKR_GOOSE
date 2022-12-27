@@ -1,2 +1,2 @@
 # UKR_GOOSE
-game
+game on Python
